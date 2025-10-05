@@ -1,22 +1,29 @@
-# Portfólio - Yasmin Pelagio
+# Portfólio Yasmin Pelagio 🌸
 
-👋 Olá! Meu nome é **Yasmin Pelagio**, sou estudante de **Ciência da Computação** e apaixonada pela **área de dados**.  
-Este repositório é um **template de portfólio** para apresentar meus projetos, estudos e habilidades.
+Bem-vindo ao meu portfólio!  
+Sou **Yasmin Pelagio**, estudante de **Ciência da Computação** com foco em **área de dados**.
 
-##  Stack de Desenvolvimento
-- Python (Pandas, NumPy, Scikit-Learn)
-- SQL
-- Power BI
-- HTML, CSS e JavaScript
+---
 
-##  Estrutura
-- `index.html`
-- `style.css`
-- `script.js`
-- `TODO.md` 
-- `LICENSE`
+## 💻 Sobre mim
+Sou apaixonada por dados e tecnologias.  
+Gosto de transformar informações em soluções inteligentes e criativas.  
+Estou sempre em busca de aprendizado e novos desafios.
 
-##  Como executar
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/Yasminpelagio/templatePortfolio.git
+---
+
+## 🛠 Tecnologias que utilizo
+- Python, SQL, R
+- HTML, CSS, JavaScript
+- Pandas, NumPy, Matplotlib
+
+---
+
+## 📫 Contato
+- Email: [yasminpelagio2@email.com](mailto:yasminpelagio2@email.com)  
+- LinkedIn: [linkedin.com/in/yasminpelagio](https://www.linkedin.com/in/yasminpelagio/)  
+- GitHub: [github.com/Yasminpelagio](https://github.com/Yasminpelagio)
+
+---
+
+✨ Obrigada pela visita!  
